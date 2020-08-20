@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## start.paco.org
 
-You can use the [editor on GitHub](https://github.com/pacodotorg/portal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[code project](https://www.codeproject.com/) • [hacker news](https://news.ycombinator.com/) • [news360](https://news360.com/home) • [zeitgeist](https://www.reddit.com/r/thedailyzeitgeist/) • [packt](https://www.packtpub.com/free-learning)
 
 ### Markdown
 
