@@ -14,10 +14,10 @@
 
 ### fall 2020
 
-- [2020fa-artv-2470-51806](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_567854_1&url=): 2020fa handheld device web app dev
-- [2020fa-artv-2470-51807](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_567855_1&url=): 2020fa handheld device web app dev
-- [2020fa-itse-1411-51200](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_564785_1&url=): 2020fa beg web programming
-- [2020fa-itse-2402-51804](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_568071_1&url=): 2020fa int. web programming
+- [artv-2470-51806](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_567854_1&url=): 2020fa handheld device web app dev
+- [artv-2470-51807](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_567855_1&url=): 2020fa handheld device web app dev
+- [itse-1411-51200](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_564785_1&url=): 2020fa beg web programming
+- [itse-2402-51804](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_568071_1&url=): 2020fa int. web programming
 
 ## summer ii 2020
 
