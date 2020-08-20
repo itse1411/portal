@@ -1,6 +1,6 @@
 ## start.paco.org
 
-[code project](https://www.codeproject.com/) • [hacker news](https://news.ycombinator.com/) • [news360](https://news360.com/home) • [zeitgeist](https://www.reddit.com/r/thedailyzeitgeist/) • [packt](https://www.packtpub.com/free-learning)
+<p align="center">[code project](https://www.codeproject.com/) • [hacker news](https://news.ycombinator.com/) • [news360](https://news360.com/home) • [zeitgeist](https://www.reddit.com/r/thedailyzeitgeist/) • [packt](https://www.packtpub.com/free-learning)</p>
 
 ### Markdown
 
