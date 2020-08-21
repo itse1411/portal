@@ -4,6 +4,7 @@
 
 ### ecc
 
+- [faculty one stop](https://dcccd.sharepoint.com/sites/FacultyOneStop)
 - [ecampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1)
 - [econnect](https://econnect.dcccd.edu/FacultyMenu.jsp)
 - dcccd
