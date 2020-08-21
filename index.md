@@ -1,4 +1,4 @@
-## start.paco.org
+### start.paco.org
 
 [code project](https://www.codeproject.com/) • [hacker news](https://news.ycombinator.com/) • [news360](https://news360.com/home) • [zeitgeist](https://www.reddit.com/r/thedailyzeitgeist/) • [packt](https://www.packtpub.com/free-learning)
 
@@ -48,7 +48,7 @@
 
 ## fall 2019
 
-[Fall 2019 Credit classes — IDT Calendar](http://alt.elcentrocollege.edu/Admissions/Schedule/2019/fall/subject/IT-Internet-Development-Technologies.php) 
+[Fall 2019 Credit classes — IDT Calendar](http://alt.elcentrocollege.edu/Admissions/Schedule/2019/fall/subject/IT-Internet-Development-Technologies.php)
 [All my classes on eCampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1)
 
 * [artc-1305-51330](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_320019_1&handle=cp_announcements&mode=cpview) [ basic graphic design ]
@@ -65,7 +65,7 @@
 
 ## spring 2019
 
-[Spring 2019 Credit classes — IDT Calendar](http://alt.elcentrocollege.edu/Admissions/Schedule/2019/Spring/subject/IT-Internet-Development-Technologies.php) 
+[Spring 2019 Credit classes — IDT Calendar](http://alt.elcentrocollege.edu/Admissions/Schedule/2019/Spring/subject/IT-Internet-Development-Technologies.php)
 [All my classes on eCampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1)
 
 * [artc-1302](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_294353_1&handle=announcements) (hyflex) [ digital imaging ]
@@ -81,7 +81,7 @@
 
 ## fall 2018
 
-[Fall 2018 Credit classes — IDT Calendar](http://alt.elcentrocollege.edu/Admissions/Schedule/2018/Fall/subject/IT-Internet-Development-Technologies.php) 
+[Fall 2018 Credit classes — IDT Calendar](http://alt.elcentrocollege.edu/Admissions/Schedule/2018/Fall/subject/IT-Internet-Development-Technologies.php)
 [All my classes on eCampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1)
 
 * [artc-1302](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_281257_1&handle=cp_announcements&mode=cpview) (51400) [ digital imaging ]
