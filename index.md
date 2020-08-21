@@ -4,6 +4,7 @@
 
 ### ecc
 
+- [my apps](https://account.activedirectory.windowsazure.com/r?whr=dcccd.edu#/applications)
 - [faculty one stop](https://dcccd.sharepoint.com/sites/FacultyOneStop)
 - [ecampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1)
 - [econnect](https://econnect.dcccd.edu/FacultyMenu.jsp)
