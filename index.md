@@ -1,18 +1,17 @@
 ### start.paco.org
 
-[code project](https://www.codeproject.com/) • [hacker news](https://news.ycombinator.com/) • [news360](https://news360.com/home) • [zeitgeist](https://www.reddit.com/r/thedailyzeitgeist/) • [packt](https://www.packtpub.com/free-learning)
+[code project](https://www.codeproject.com/){:target="_blank"} • [hacker news](https://news.ycombinator.com/){:target="_blank"} • [news360](https://news360.com/home){:target="_blank"} • [zeitgeist](https://www.reddit.com/r/thedailyzeitgeist/){:target="_blank"} • [packt](https://www.packtpub.com/free-learning){:target="_blank"}
 
 ### ecc
 
-- [my apps](https://account.activedirectory.windowsazure.com/r?whr=dcccd.edu#/applications)
-- [faculty one stop](https://dcccd.sharepoint.com/sites/FacultyOneStop)
+- [my apps](https://account.activedirectory.windowsazure.com/r?whr=dcccd.edu#/applications){:target="_blank"}
+- [faculty one stop](https://dcccd.sharepoint.com/sites/FacultyOneStop){:target="_blank"}
 - [ecampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1)
-- [econnect](https://econnect.dcccd.edu/FacultyMenu.jsp)
-- dcccd
-- [youtube](https://www.dcccd.edu/Pages/default.aspx)
-- [#slack](https://www.youtube.com/user/idtprof)
-- [trello](https://trello.com/b/bVLAG6pR/spring-2018)
-- [gist](https://gist.github.com/)
+- [econnect](https://econnect.dcccd.edu/FacultyMenu.jsp){:target="_blank"}
+- [youtube](https://www.dcccd.edu/Pages/default.aspx){:target="_blank"}
+- [#slack](https://www.youtube.com/user/idtprof){:target="_blank"}
+- [trello](https://trello.com/b/bVLAG6pR/spring-2018){:target="_blank"}
+- [gist](https://gist.github.com/){:target="_blank"}
 
 ### fall 2020
 
@@ -23,26 +22,26 @@
 
 ## summer ii 2020
 
-* [artv-2470—56800](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_565830_1&handle=cp_announcements&mode=cpview) [ portable web applications ]
-* [game-1403-53400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_558519_1&handle=cp_announcements&mode=cpview) [ intro to game programming ]
+* [artv-2470—56800](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_565830_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ portable web applications ]
+* [game-1403-53400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_558519_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ intro to game programming ]
 
 ## summer i 2020
 
-* [artc-1402-55800](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_564120_1&handle=cp_announcements&mode=cpview) [ digital imaging 1 ]
-* [imed-2415-55800](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_559268_1&handle=cp_announcements&mode=cpview) [ web design 2 ]
+* [artc-1402-55800](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_564120_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ digital imaging 1 ]
+* [imed-2415-55800](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_559268_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ web design 2 ]
 
 ## spring 2020
 
 * [artc-1302-53330/53400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_458734_1&handle=cp_announcements&mode=cpview) [ digital imaging 1 ]
-* [artc-1402-53800](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_459050_1&handle=cp_announcements&mode=cpview) [ digital imaging 1 ]
-* [inew-2434-53400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_458777_1&handle=cp_announcements&mode=cpview) [ advanced web programming ]
-* [game-1403-53800](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_449902_1&handle=cp_announcements&mode=cpview) [ intro to game programming ]
-* [imed-2415-53800](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_449944_1&handle=cp_announcements&mode=cpview) [ web design 2 ]
-* [itse-1429-51201](https://dcccd.blackboard.com/webapps/blackboard/content/listContentEditable.jsp?content_id=_18360015_1&course_id=_449964_1) [ programming logic and design ]
+* [artc-1402-53800](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_459050_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ digital imaging 1 ]
+* [inew-2434-53400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_458777_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ advanced web programming ]
+* [game-1403-53800](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_449902_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ intro to game programming ]
+* [imed-2415-53800](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_449944_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ web design 2 ]
+* [itse-1429-51201](https://dcccd.blackboard.com/webapps/blackboard/content/listContentEditable.jsp?content_id=_18360015_1&course_id=_449964_1){:target="_blank"} [ programming logic and design ]
 
 ## wintermester 2019
 
-[All my classes on eCampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1)
+[All my classes on eCampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
 
 * [inew-2434-53400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_467854_1&handle=cp_announcements) [ advanced web programming ]
 * [itse-2409-52400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_488833_1&handle=cp_announcements) [ databases ]
