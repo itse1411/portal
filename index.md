@@ -6,7 +6,7 @@
 
 - [my apps](https://account.activedirectory.windowsazure.com/r?whr=dcccd.edu#/applications){:target="_blank"}
 - [faculty one stop](https://dcccd.sharepoint.com/sites/FacultyOneStop){:target="_blank"}
-- [ecampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1)
+- [ecampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
 - [econnect](https://econnect.dcccd.edu/FacultyMenu.jsp){:target="_blank"}
 - [youtube](https://www.dcccd.edu/Pages/default.aspx){:target="_blank"}
 - [#slack](https://www.youtube.com/user/idtprof){:target="_blank"}
@@ -32,7 +32,7 @@
 
 ## spring 2020
 
-* [artc-1302-53330/53400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_458734_1&handle=cp_announcements&mode=cpview) [ digital imaging 1 ]
+* [artc-1302-53330/53400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_458734_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ digital imaging 1 ]
 * [artc-1402-53800](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_459050_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ digital imaging 1 ]
 * [inew-2434-53400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_458777_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ advanced web programming ]
 * [game-1403-53800](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_449902_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ intro to game programming ]
@@ -43,218 +43,218 @@
 
 [All my classes on eCampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
 
-* [inew-2434-53400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_467854_1&handle=cp_announcements) [ advanced web programming ]
-* [itse-2409-52400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_488833_1&handle=cp_announcements) [ databases ]
-* [artv-2470-52400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_467819_1&handle=cp_announcements&mode=cpview) [ mobile web applications ]
+* [inew-2434-53400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_467854_1&handle=cp_announcements){:target="_blank"} [ advanced web programming ]
+* [itse-2409-52400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_488833_1&handle=cp_announcements){:target="_blank"} [ databases ]
+* [artv-2470-52400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_467819_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ mobile web applications ]
 
 ## fall 2019
 
-[Fall 2019 Credit classes — IDT Calendar](http://alt.elcentrocollege.edu/Admissions/Schedule/2019/fall/subject/IT-Internet-Development-Technologies.php)
-[All my classes on eCampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1)
+[Fall 2019 Credit classes — IDT Calendar](http://alt.elcentrocollege.edu/Admissions/Schedule/2019/fall/subject/IT-Internet-Development-Technologies.php){:target="_blank"}
+[All my classes on eCampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
 
-* [artc-1305-51330](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_320019_1&handle=cp_announcements&mode=cpview) [ basic graphic design ]
-* [imed-2415-51400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_318669_1&handle=cp_announcements&mode=cpview) [ web design 2 ]
-* [inew-1440-51400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_318668_1&handle=cp_announcements&mode=cpview) [ asp.net ]
-* [itnw-1274-51800](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_358229_1&handle=cp_announcements&mode=cpview) [ website development projects ]
-* [itsc-1405-51803](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_355433_1&handle=cp_announcements&mode=cpview) [ intro to pc operating systems ]
-* [itse-1401-51400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_350943_1&handle=announcements_entry&mode=view) [ web design tools ]
-* [itse-2409-51400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_318617_1&handle=cp_announcements&mode=cpview) [ database programming ]
+* [artc-1305-51330](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_320019_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ basic graphic design ]
+* [imed-2415-51400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_318669_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ web design 2 ]
+* [inew-1440-51400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_318668_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ asp.net ]
+* [itnw-1274-51800](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_358229_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ website development projects ]
+* [itsc-1405-51803](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_355433_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ intro to pc operating systems ]
+* [itse-1401-51400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_350943_1&handle=announcements_entry&mode=view){:target="_blank"} [ web design tools ]
+* [itse-2409-51400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_318617_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ database programming ]
 
 ## maymester 2019
 
-* [itnw-1274](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_329625_1&handle=cp_announcements&mode=cpview) (54400) [managing web site dev projects – winter]
+* [itnw-1274](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_329625_1&handle=cp_announcements&mode=cpview){:target="_blank"} (54400){:target="_blank"} [managing web site dev projects – winter]
 
 ## spring 2019
 
-[Spring 2019 Credit classes — IDT Calendar](http://alt.elcentrocollege.edu/Admissions/Schedule/2019/Spring/subject/IT-Internet-Development-Technologies.php)
-[All my classes on eCampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1)
+[Spring 2019 Credit classes — IDT Calendar](http://alt.elcentrocollege.edu/Admissions/Schedule/2019/Spring/subject/IT-Internet-Development-Technologies.php){:target="_blank"}
+[All my classes on eCampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
 
-* [artc-1302](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_294353_1&handle=announcements) (hyflex) [ digital imaging ]
-* [artc-1402](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_291195_1&handle=announcements) (53400) [ digital imaging ]
-* [inew-2434](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_292864_1&handle=announcements) (hyflex) [ adv. web programming ]
-* [imed-1416](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_291246_1&handle=announcements) (53800) [ web design 1 – ca ]
-* [itse-2402](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_291301_1&handle=announcements) (53400) [ intermediate web programming ]
-* [itse-2409](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_294265_1&handle=announcements) (53800) [ database programming – ca ]
+* [artc-1302](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_294353_1&handle=announcements){:target="_blank"} (hyflex){:target="_blank"} [ digital imaging ]
+* [artc-1402](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_291195_1&handle=announcements){:target="_blank"} (53400){:target="_blank"} [ digital imaging ]
+* [inew-2434](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_292864_1&handle=announcements){:target="_blank"} (hyflex){:target="_blank"} [ adv. web programming ]
+* [imed-1416](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_291246_1&handle=announcements){:target="_blank"} (53800){:target="_blank"} [ web design 1 – ca ]
+* [itse-2402](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_291301_1&handle=announcements){:target="_blank"} (53400){:target="_blank"} [ intermediate web programming ]
+* [itse-2409](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_294265_1&handle=announcements){:target="_blank"} (53800){:target="_blank"} [ database programming – ca ]
 
 * * *
 
-* [itnw-1274](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_293917_1&handle=announcements) (52400) [ managing web site dev projects – winter]
+* [itnw-1274](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_293917_1&handle=announcements){:target="_blank"} (52400){:target="_blank"} [ managing web site dev projects – winter]
 
 ## fall 2018
 
-[Fall 2018 Credit classes — IDT Calendar](http://alt.elcentrocollege.edu/Admissions/Schedule/2018/Fall/subject/IT-Internet-Development-Technologies.php)
-[All my classes on eCampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1)
+[Fall 2018 Credit classes — IDT Calendar](http://alt.elcentrocollege.edu/Admissions/Schedule/2018/Fall/subject/IT-Internet-Development-Technologies.php){:target="_blank"}
+[All my classes on eCampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
 
-* [artc-1302](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_281257_1&handle=cp_announcements&mode=cpview) (51400) [ digital imaging ]
-* [imed-2415](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_260541_1&handle=cp_announcements&mode=cpview) (51400) [ web design 2 ]
- * [imed-2415](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_268609_1&handle=cp_announcements&mode=cpview) (51800) [ ca ]
-* [itse-2402](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_260559_1&handle=cp_announcements&mode=cpview) (51400) [ intermediate web programming ]
- * [itse-2402](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_268677_1&handle=cp_announcements&mode=cpview) (51800) [ ca ]
-* [itse-2409](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_260560_1&handle=cp_announcements&mode=cpview) (51400) [ database programming ]
- * [itse-2409](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_270462_1&handle=cp_announcements&mode=cpview) (51800) [ ca ]
+* [artc-1302](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_281257_1&handle=cp_announcements&mode=cpview){:target="_blank"} (51400){:target="_blank"} [ digital imaging ]
+* [imed-2415](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_260541_1&handle=cp_announcements&mode=cpview){:target="_blank"} (51400){:target="_blank"} [ web design 2 ]
+ * [imed-2415](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_268609_1&handle=cp_announcements&mode=cpview){:target="_blank"} (51800){:target="_blank"} [ ca ]
+* [itse-2402](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_260559_1&handle=cp_announcements&mode=cpview){:target="_blank"} (51400){:target="_blank"} [ intermediate web programming ]
+ * [itse-2402](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_268677_1&handle=cp_announcements&mode=cpview){:target="_blank"} (51800){:target="_blank"} [ ca ]
+* [itse-2409](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_260560_1&handle=cp_announcements&mode=cpview){:target="_blank"} (51400){:target="_blank"} [ database programming ]
+ * [itse-2409](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_270462_1&handle=cp_announcements&mode=cpview){:target="_blank"} (51800){:target="_blank"} [ ca ]
 
 ## springmester 2018
 
-* [itsc-1291](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_256807_1&handle=cp_announcements&mode=cpview) [ special topics: excel ]
+* [itsc-1291](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_256807_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ special topics: excel ]
 
 ## spring 2018
 
-* [artc-1402](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_223642_1&handle=cp_announcements&mode=cpview) [ digital imaging ]
-* [imed-2415](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_223503_1&url=) [ web design 2 ]
-* [itse-1425](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_227611_1&handle=cp_announcements&mode=cpview) [ pc hardware]
-* [inew-2434](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_223501_1&handle=cp_announcements&mode=cpview) [ advanced web programming ]
-* [itse-1406](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_223453_1&handle=cp_announcements&mode=cpview) [ php programming ]
-* [imed-2311](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_223505_1&handle=announcements_entry&mode=view) [ portfolio development ]
-* [itse-2402](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_223449_1&handle=announcements_entry&mode=view) [ intermediate web programming ]
-* [itsy-1400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_223439_1&handle=cp_announcements&mode=cpview) [ fundamentals of infosec 53200 ]
-* [itsy-1400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_223437_1&handle=cp_announcements&mode=cpview) [ fundamentals of infosec 53420 ]
-* [imed-2415](https://dcccd.blackboard.com/webapps/blackboard/content/listContent.jsp?course_id=_227521_1&content_id=_12635021_1) [ web design 2 : roosevelt ]
+* [artc-1402](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_223642_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ digital imaging ]
+* [imed-2415](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_223503_1&url=){:target="_blank"} [ web design 2 ]
+* [itse-1425](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_227611_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ pc hardware]
+* [inew-2434](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_223501_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ advanced web programming ]
+* [itse-1406](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_223453_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ php programming ]
+* [imed-2311](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_223505_1&handle=announcements_entry&mode=view){:target="_blank"} [ portfolio development ]
+* [itse-2402](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_223449_1&handle=announcements_entry&mode=view){:target="_blank"} [ intermediate web programming ]
+* [itsy-1400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_223439_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ fundamentals of infosec 53200 ]
+* [itsy-1400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_223437_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ fundamentals of infosec 53420 ]
+* [imed-2415](https://dcccd.blackboard.com/webapps/blackboard/content/listContent.jsp?course_id=_227521_1&content_id=_12635021_1){:target="_blank"} [ web design 2 : roosevelt ]
 
 ## biz
 
-* [felix salmon](http://www.felixsalmon.com/)
-* [marketplace](http://www.marketplace.org/)
-* [marketwatch](http://www.marketwatch.com/)
-* [paul ford](https://medium.com/@ftrain/latest)
-* [planet money](http://www.npr.org/blogs/money/)
+* [felix salmon](http://www.felixsalmon.com/){:target="_blank"}
+* [marketplace](http://www.marketplace.org/){:target="_blank"}
+* [marketwatch](http://www.marketwatch.com/){:target="_blank"}
+* [paul ford](https://medium.com/@ftrain/latest){:target="_blank"}
+* [planet money](http://www.npr.org/blogs/money/){:target="_blank"}
 
 ## design
 
-* [adactio](https://adactio.com/)
-* [creativebloq](http://www.creativebloq.com/)
-* [dafont](http://www.dafont.com/)
-* [deke](http://www.deke.com/)
-* [demosthenes](https://thenewcode.com/)
-* [fontsquirrel](http://www.fontsquirrel.com/)
-* [tipsquirrel](http://www.tipsquirrel.com/)
-* [#webdesign](https://twitter.com/search?q=%23webdesign&src=hash&f=realtime)
-* [web designer ledger](http://webdesignledger.com/)
+* [adactio](https://adactio.com/){:target="_blank"}
+* [creativebloq](http://www.creativebloq.com/){:target="_blank"}
+* [dafont](http://www.dafont.com/){:target="_blank"}
+* [deke](http://www.deke.com/){:target="_blank"}
+* [demosthenes](https://thenewcode.com/){:target="_blank"}
+* [fontsquirrel](http://www.fontsquirrel.com/){:target="_blank"}
+* [tipsquirrel](http://www.tipsquirrel.com/){:target="_blank"}
+* [#webdesign](https://twitter.com/search?q=%23webdesign&src=hash&f=realtime){:target="_blank"}
+* [web designer ledger](http://webdesignledger.com/){:target="_blank"}
 
 ## entertainment
 
-* [deadline hollywood](http://www.deadline.com/hollywood/) • [google music](https://play.google.com/music/listen) • [movie visor](http://movievisor.com/) • [indiewire](http://blogs.indiewire.com/theplaylist/) • [soma](http://somafm.com/) • [spotify](https://play.spotify.com/browse) • [tunein](http://tunein.com/)
+* [deadline hollywood](http://www.deadline.com/hollywood/){:target="_blank"} • [google music](https://play.google.com/music/listen){:target="_blank"} • [movie visor](http://movievisor.com/){:target="_blank"} • [indiewire](http://blogs.indiewire.com/theplaylist/){:target="_blank"} • [soma](http://somafm.com/){:target="_blank"} • [spotify](https://play.spotify.com/browse){:target="_blank"} • [tunein](http://tunein.com/){:target="_blank"}
 
 ## fun
 
-* [148 Apps](http://www.148apps.com/)
-* [9GAG](http://9gag.com/)
-* [the awl](http://www.theawl.com/)
-* [the best page in the universe](http://maddox.xmission.com/)
-* [comics curmudgeon](http://joshreads.com/)
-* [cracked](http://www.cracked.com/)
-* [the daily show](http://www.thedailyshow.com/)
-* [the oatmeal](http://theoatmeal.com/)
-* [the poke](http://www.thepoke.co.uk/)
-* [slurper](http://darkgate.net/comic/)
-* [sugar toast](http://www.sugartoast.com/)
+* [148 Apps](http://www.148apps.com/){:target="_blank"}
+* [9GAG](http://9gag.com/){:target="_blank"}
+* [the awl](http://www.theawl.com/){:target="_blank"}
+* [the best page in the universe](http://maddox.xmission.com/){:target="_blank"}
+* [comics curmudgeon](http://joshreads.com/){:target="_blank"}
+* [cracked](http://www.cracked.com/){:target="_blank"}
+* [the daily show](http://www.thedailyshow.com/){:target="_blank"}
+* [the oatmeal](http://theoatmeal.com/){:target="_blank"}
+* [the poke](http://www.thepoke.co.uk/){:target="_blank"}
+* [slurper](http://darkgate.net/comic/){:target="_blank"}
+* [sugar toast](http://www.sugartoast.com/){:target="_blank"}
 
 ## geek
 
-* [den of geek](http://www.denofgeek.us/)
-* [internet arcade](https://archive.org/details/internetarcade)
-* [ms-dos games](https://archive.org/details/softwarelibrary_msdos_games/v2)
-* [o’reilly radar](http://radar.oreilly.com/)
-* [retrocomputing porn](http://www.pinterest.com/hezad/retrocomputing-porn/)
-* [valleywag](http://valleywag.gawker.com/)
+* [den of geek](http://www.denofgeek.us/){:target="_blank"}
+* [internet arcade](https://archive.org/details/internetarcade){:target="_blank"}
+* [ms-dos games](https://archive.org/details/softwarelibrary_msdos_games/v2){:target="_blank"}
+* [o’reilly radar](http://radar.oreilly.com/){:target="_blank"}
+* [retrocomputing porn](http://www.pinterest.com/hezad/retrocomputing-porn/){:target="_blank"}
+* [valleywag](http://valleywag.gawker.com/){:target="_blank"}
 
 ## linux
 
-* [dedoimedo](http://www.dedoimedo.com/)
-* [distrowatch](http://distrowatch.com/)
-* [LinuxG](http://linuxg.net/)
+* [dedoimedo](http://www.dedoimedo.com/){:target="_blank"}
+* [distrowatch](http://distrowatch.com/){:target="_blank"}
+* [LinuxG](http://linuxg.net/){:target="_blank"}
 
 ## media
 
-* [buzz machine](http://buzzmachine.com/)
-* [editor’s weblog](http://blog.wan-ifra.org/blogs/editorial)
-* [mediabistro](http://www.mediabistro.com/)
-* [mediaite](http://www.mediaite.com/)
+* [buzz machine](http://buzzmachine.com/){:target="_blank"}
+* [editor’s weblog](http://blog.wan-ifra.org/blogs/editorial){:target="_blank"}
+* [mediabistro](http://www.mediabistro.com/){:target="_blank"}
+* [mediaite](http://www.mediaite.com/){:target="_blank"}
 
 ## news
 
-* [Al Jazeera](http://america.aljazeera.com/)
-* [BBC News](https://www.bbc.com/news)
-* [BuzzFeed](http://www.buzzfeed.com/)
-* [DMN Print](http://digital.olivesoftware.com/Olive/ODE/DallasMorningNews/)
-* [FlavorWire](http://flavorwire.com/)
-* [Google News](https://news.google.com/)
-* [Know More](http://knowmore.washingtonpost.com/)
-* [Newser](http://www.newser.com/)
-* [Newsola](http://www.newsola.com/#/us/)
-* [Politico](http://www.politico.com/)
-* [ProPublica](http://www.propublica.org/)
-* [TruthDig](http://www.truthdig.com/)
-* [#waywire](http://www.waywire.com/)
+* [Al Jazeera](http://america.aljazeera.com/){:target="_blank"}
+* [BBC News](https://www.bbc.com/news){:target="_blank"}
+* [BuzzFeed](http://www.buzzfeed.com/){:target="_blank"}
+* [DMN Print](http://digital.olivesoftware.com/Olive/ODE/DallasMorningNews/){:target="_blank"}
+* [FlavorWire](http://flavorwire.com/){:target="_blank"}
+* [Google News](https://news.google.com/){:target="_blank"}
+* [Know More](http://knowmore.washingtonpost.com/){:target="_blank"}
+* [Newser](http://www.newser.com/){:target="_blank"}
+* [Newsola](http://www.newsola.com/#/us/){:target="_blank"}
+* [Politico](http://www.politico.com/){:target="_blank"}
+* [ProPublica](http://www.propublica.org/){:target="_blank"}
+* [TruthDig](http://www.truthdig.com/){:target="_blank"}
+* [#waywire](http://www.waywire.com/){:target="_blank"}
 
 ## skul
 
-* [Adobe Education Exchange](http://edex.adobe.com/)
-* [Codecademy](http://www.codecademy.com/) [C](https://www.codeschool.com/)
-* [ode School](https://www.codeschool.com/)
-* [Coursera](https://www.coursera.org/)
-* [edX](https://www.edx.org/)
-* [Khan Academy](https://www.khanacademy.org/)
-* [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/)
-* [Programmr](http://www.programmr.com/)
-* [r/Progamming](http://www.reddit.com/r/programming/)
-* [Ruby Monk](http://rubymonk.com/)
-* [TutsPlus free courses](http://tutsplus.com/courses?filter=free&page=1)
-* [Udemy](https://www.udemy.com/learn-html5-programming-from-scratch)
-* [Yale](http://oyc.yale.edu/courses)
+* [Adobe Education Exchange](http://edex.adobe.com/){:target="_blank"}
+* [Codecademy](http://www.codecademy.com/){:target="_blank"} [C](https://www.codeschool.com/){:target="_blank"}
+* [ode School](https://www.codeschool.com/){:target="_blank"}
+* [Coursera](https://www.coursera.org/){:target="_blank"}
+* [edX](https://www.edx.org/){:target="_blank"}
+* [Khan Academy](https://www.khanacademy.org/){:target="_blank"}
+* [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/){:target="_blank"}
+* [Programmr](http://www.programmr.com/){:target="_blank"}
+* [r/Progamming](http://www.reddit.com/r/programming/){:target="_blank"}
+* [Ruby Monk](http://rubymonk.com/){:target="_blank"}
+* [TutsPlus free courses](http://tutsplus.com/courses?filter=free&page=1){:target="_blank"}
+* [Udemy](https://www.udemy.com/learn-html5-programming-from-scratch){:target="_blank"}
+* [Yale](http://oyc.yale.edu/courses){:target="_blank"}
 
 ## social
 
-* [Facebook](https://www.facebook.com/pacodotorg)
-* [Google+](https://plus.google.com/u/0/)
-* [Instafall](http://instafall.com/)
-* [LinkedIn](http://www.linkedin.com/profile/view?id=9752024&trk=nav_responsive_tab_profile)
-* [Metareddit](http://metareddit.com/reddits/)
-* [Reddit](http://www.reddit.com/)
-* [Tumblr](http://www.tumblr.com/dashboard)
-* [Twitter](https://twitter.com/pacodotorg)
+* [Facebook](https://www.facebook.com/pacodotorg){:target="_blank"}
+* [Google+](https://plus.google.com/u/0/){:target="_blank"}
+* [Instafall](http://instafall.com/){:target="_blank"}
+* [LinkedIn](http://www.linkedin.com/profile/view?id=9752024&trk=nav_responsive_tab_profile){:target="_blank"}
+* [Metareddit](http://metareddit.com/reddits/){:target="_blank"}
+* [Reddit](http://www.reddit.com/){:target="_blank"}
+* [Tumblr](http://www.tumblr.com/dashboard){:target="_blank"}
+* [Twitter](https://twitter.com/pacodotorg){:target="_blank"}
 
 ## software
 
-* [Ninite](https://ninite.com/)
-* [No Nags](http://www.nonags.com/)
-* [SnapFiles](http://www.webattack.com/)
-* [Photoshop News](https://news.google.com/news/section?pz=1&cf=all&ned=us&hl=en&csid=e652abcb31280b79&redirect=true)
+* [Ninite](https://ninite.com/){:target="_blank"}
+* [No Nags](http://www.nonags.com/){:target="_blank"}
+* [SnapFiles](http://www.webattack.com/){:target="_blank"}
+* [Photoshop News](https://news.google.com/news/section?pz=1&cf=all&ned=us&hl=en&csid=e652abcb31280b79&redirect=true){:target="_blank"}
 
 ## tech/science news
 
-* [Boy Genius Report](http://bgr.com/)
-* [Daily Tech News Show](https://www.reddit.com/r/DailyTechNewsShow/)
-* [Digital Trends](http://www.digitaltrends.com/)
-* [Forbes Tech](http://www.forbes.com/technology/)
-* [FT Tech Blog](http://blogs.ft.com/tech-blog/)
-* [Hacker News](https://news.ycombinator.com/)
-* [MIT Technology Review](http://www.technologyreview.com/)
-* [Science Daily](http://www.sciencedaily.com/)
-* [Tim Bray](https://www.tbray.org/ongoing/)
-* [Wired](http://www.wired.com/)
+* [Boy Genius Report](http://bgr.com/){:target="_blank"}
+* [Daily Tech News Show](https://www.reddit.com/r/DailyTechNewsShow/){:target="_blank"}
+* [Digital Trends](http://www.digitaltrends.com/){:target="_blank"}
+* [Forbes Tech](http://www.forbes.com/technology/){:target="_blank"}
+* [FT Tech Blog](http://blogs.ft.com/tech-blog/){:target="_blank"}
+* [Hacker News](https://news.ycombinator.com/){:target="_blank"}
+* [MIT Technology Review](http://www.technologyreview.com/){:target="_blank"}
+* [Science Daily](http://www.sciencedaily.com/){:target="_blank"}
+* [Tim Bray](https://www.tbray.org/ongoing/){:target="_blank"}
+* [Wired](http://www.wired.com/){:target="_blank"}
 
 ## web tools/reference
 
-* [Adachis](http://adachis.kinja.com/)
-* [Dirty Markup](http://www.dirtymarkup.com/)
-* [Free Formatter](http://www.freeformatter.com/html-formatter.html#ad-output)
-* [Maildrop](http://maildrop.cc/)
-* [Speedball](http://www.flickr.com/photos/taffeta/sets/72157628903870575/)
-* [WebJournalist Tools](http://webjournalist.org/topics/tools/)
-* [Web Style Guide](http://webstyleguide.com/)
+* [Adachis](http://adachis.kinja.com/){:target="_blank"}
+* [Dirty Markup](http://www.dirtymarkup.com/){:target="_blank"}
+* [Free Formatter](http://www.freeformatter.com/html-formatter.html#ad-output){:target="_blank"}
+* [Maildrop](http://maildrop.cc/){:target="_blank"}
+* [Speedball](http://www.flickr.com/photos/taffeta/sets/72157628903870575/){:target="_blank"}
+* [WebJournalist Tools](http://webjournalist.org/topics/tools/){:target="_blank"}
+* [Web Style Guide](http://webstyleguide.com/){:target="_blank"}
 
 ## weather
 
-* [Grand Prairie Map](http://www.wunderground.com/cgi-bin/findweather/getForecast?brand=wxmap&query=32.7049922,-97.01781729999999)
-* [NASA Weather](http://weather.msfc.nasa.gov/ghcc_home.html)
-* [NWS Weather](http://www.nws.noaa.gov/)
-* [Weather Channel](http://www.weather.com/)
-* [Weather Underground](http://www.wunderground.com/)
-* [Yahoo!](http://weather.yahoo.com/)
+* [Grand Prairie Map](http://www.wunderground.com/cgi-bin/findweather/getForecast?brand=wxmap&query=32.7049922,-97.01781729999999){:target="_blank"}
+* [NASA Weather](http://weather.msfc.nasa.gov/ghcc_home.html){:target="_blank"}
+* [NWS Weather](http://www.nws.noaa.gov/){:target="_blank"}
+* [Weather Channel](http://www.weather.com/){:target="_blank"}
+* [Weather Underground](http://www.wunderground.com/){:target="_blank"}
+* [Yahoo!](http://weather.yahoo.com/){:target="_blank"}
 
 ## what the tweet
 
-* [@ComputerSociety](https://twitter.com/search?f=realtime&q=%40computersociety&src=typd)
-* [@fart](https://twitter.com/fart)
-* [@make](https://twitter.com/search?f=realtime&q=%40make&src=typd)
-* [TweetDeck](https://tweetdeck.twitter.com/)
+* [@ComputerSociety](https://twitter.com/search?f=realtime&q=%40computersociety&src=typd){:target="_blank"}
+* [@fart](https://twitter.com/fart){:target="_blank"}
+* [@make](https://twitter.com/search?f=realtime&q=%40make&src=typd){:target="_blank"}
+* [TweetDeck](https://tweetdeck.twitter.com/){:target="_blank"}
