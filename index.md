@@ -25,7 +25,7 @@
 - [itse-1416-51805](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_568056_1&url=){:target="_blank"} [ web design i ]
 - [itse-1416-51807](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_568058_1&url=){:target="_blank"} [ web design i ]
 - [itse-1416-XXXXX](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_318675_1&url=){:target="_blank"} [ web design i ]
-- [artv-2470-51805](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_567853_1&url=){:target="_blank"} [ web design i ]
+- [artv-2470-51805](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_567853_1&url=){:target="_blank"} [ handheld device web app dev ]
 
 ### summer ii 2020
 
