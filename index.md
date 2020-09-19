@@ -12,9 +12,8 @@
 - [#slack](https://www.youtube.com/user/idtprof){:target="_blank"}
 - [trello](https://trello.com/b/bVLAG6pR/spring-2018){:target="_blank"}
 - [gist](https://gist.github.com/){:target="_blank"}
-
-- [html5 editor](https://html5-editor.net/){:target=:_blank")
-- [youtube studio](https://studio.youtube.com/){:target=:_blank")
+- [html5 editor](https://html5-editor.net/){:target="_blank"}
+- [youtube studio](https://studio.youtube.com/){:target="_blank"} 
 
 ### fall 2020
 
