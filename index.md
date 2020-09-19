@@ -13,6 +13,9 @@
 - [trello](https://trello.com/b/bVLAG6pR/spring-2018){:target="_blank"}
 - [gist](https://gist.github.com/){:target="_blank"}
 
+= [html5 editor](https://html5-editor.net/){:target=:_blank")
+- [youtube studio](https://studio.youtube.com/){:target=:_blank")
+
 ### fall 2020
 
 - [artv-2470-51806](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_567854_1&url=){:target="_blank"} [ handheld device web app dev ]
