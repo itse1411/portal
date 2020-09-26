@@ -1,3 +1,5 @@
+[gmail](http://www.gmail.com/) • [outlook](http://outlook.dcccd.edu/) • [word](https://office.live.com/start/Word.aspx?auth=2&s=4&nf=1) • [gcalendar](https://www.google.com/calendar/render?tab=mc) • [reddit](http://www.reddit.com/r/all) • [twitter](http://www.twitter.com/) • [drive](https://drive.google.com/drive/my-drive) • [onedrive](https://onedrive.live.com/) • [github](http://www.github.com/) • [slack](https://slack.com/signin)
+
 ### start.paco.org
 
 [code project](https://www.codeproject.com/){:target="_blank"} • [hacker news](https://news.ycombinator.com/){:target="_blank"} • [news360](https://news360.com/home){:target="_blank"} • [zeitgeist](https://www.reddit.com/r/thedailyzeitgeist/){:target="_blank"} • [packt](https://www.packtpub.com/free-learning){:target="_blank"}
