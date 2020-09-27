@@ -1,8 +1,8 @@
-[outlook](http://outlook.dcccd.edu/){:target="_blank"} • [word](https://office.live.com/start/Word.aspx?auth=2&s=4&nf=1){:target="_blank"} • [calendar](https://www.google.com/calendar/render?tab=mc){:target="_blank"} • [reddit](http://www.reddit.com/r/all){:target="_blank"} • [onedrive](https://onedrive.live.com/) • [github](http://www.github.com/){:target="_blank"} • [slack](https://idtprof.slack.com){:target="_blank"}
+[outlook](http://outlook.dcccd.edu/){:target="_blank"} • [word](https://office.live.com/start/Word.aspx?auth=2&s=4&nf=1){:target="_blank"} • [calendar](https://www.google.com/calendar/render?tab=mc){:target="_blank"} • [reddit](http://www.reddit.com/r/all){:target="_blank"} • [onedrive](https://onedrive.live.com/) • [github](http://www.github.com/){:target="_blank"} • [slack](https://www.tiktok.com/){:target="_blank"}
 
 ### start.paco.org
 
-[code project](https://www.codeproject.com/){:target="_blank"} • [hacker news](https://news.ycombinator.com/){:target="_blank"} • [news360](https://news360.com/home){:target="_blank"} • [zeitgeist](https://www.reddit.com/r/thedailyzeitgeist/){:target="_blank"} • [packt](https://www.packtpub.com/free-learning){:target="_blank"}
+[code project](https://www.codeproject.com/){:target="_blank"} • [hacker news](https://news.ycombinator.com/){:target="_blank"} • [news360](https://news360.com/home){:target="_blank"} • [zeitgeist](https://www.reddit.com/r/thedailyzeitgeist/){:target="_blank"} • [packt](https://www.packtpub.com/free-learning){:target="_blank"} • [tiktok](https://idtprof.slack.com){:target="_blank"}
 
 ### ecc
 
