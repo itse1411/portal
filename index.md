@@ -188,16 +188,13 @@
 * [Al Jazeera](http://america.aljazeera.com/){:target="_blank"}
 * [BBC News](https://www.bbc.com/news){:target="_blank"}
 * [BuzzFeed](http://www.buzzfeed.com/){:target="_blank"}
-* [DMN Print](http://digital.olivesoftware.com/Olive/ODE/DallasMorningNews/){:target="_blank"}
 * [FlavorWire](http://flavorwire.com/){:target="_blank"}
 * [Google News](https://news.google.com/){:target="_blank"}
-* [Know More](http://knowmore.washingtonpost.com/){:target="_blank"}
 * [Newser](http://www.newser.com/){:target="_blank"}
 * [Newsola](http://www.newsola.com/#/us/){:target="_blank"}
 * [Politico](http://www.politico.com/){:target="_blank"}
 * [ProPublica](http://www.propublica.org/){:target="_blank"}
 * [TruthDig](http://www.truthdig.com/){:target="_blank"}
-* [#waywire](http://www.waywire.com/){:target="_blank"}
 
 ### skul
 
