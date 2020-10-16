@@ -1,8 +1,8 @@
-[office](https://www.office.com/?auth=2){:target="_blank"} • [calendar](https://www.google.com/calendar/render?tab=mc){:target="_blank"} • [reddit](http://www.reddit.com/r/all){:target="_blank"} • [github](http://www.github.com/){:target="_blank"} • [slack](https://idtprof.slack.com/){:target="_blank"}
+[office](https://www.office.com/?auth=2){:target="_blank"} • [calendar](https://www.google.com/calendar/render?tab=mc){:target="_blank"} • [reddit](http://www.reddit.com/r/all){:target="_blank"} • [github](https://github.com/idtprof?tab=repositories){:target="_blank"} • [slack](https://idtprof.slack.com/){:target="_blank"}
 
 ### start.paco.org
 
-[code project](https://www.codeproject.com/){:target="_blank"} • [hacker news](https://news.ycombinator.com/){:target="_blank"} • [news360](https://news360.com/home){:target="_blank"} • [zeitgeist](https://www.reddit.com/r/thedailyzeitgeist/){:target="_blank"} • [packt](https://www.packtpub.com/free-learning){:target="_blank"} • [tiktok](https://www.tiktok.com/){:target="_blank"}
+[code project](https://www.codeproject.com/){:target="_blank"} • [hacker news](https://news.ycombinator.com/){:target="_blank"} • [news360](https://news360.com/home){:target="_blank"} • [zeitgeist](https://github.com/idtprof?tab=repositories){:target="_blank"} • [packt](https://www.packtpub.com/free-learning){:target="_blank"} • [tiktok](https://www.tiktok.com/){:target="_blank"}
 
 ### ecc
 
@@ -10,8 +10,8 @@
 - [faculty one stop](https://dcccd.sharepoint.com/sites/FacultyOneStop){:target="_blank"}
 - [ecampus](https://dcccd.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1){:target="_blank"}
 - [econnect](https://econnect.dcccd.edu/FacultyMenu.jsp){:target="_blank"}
-- [youtube](https://www.dcccd.edu/Pages/default.aspx){:target="_blank"}
-- [#slack](https://www.youtube.com/user/idtprof){:target="_blank"}
+- [youtube](https://www.youtube.com/user/idtprof){:target="_blank"}
+- 
 - [trello](https://trello.com/b/bVLAG6pR/spring-2018){:target="_blank"}
 - [gist](https://gist.github.com/){:target="_blank"}
 
