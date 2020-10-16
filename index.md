@@ -1,3 +1,9 @@
+<div align="center">
+  
+  <h2><a href="http://www.gmail.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.paco.org/blog/wp-content/uploads/2019/07/icon_gmail.png" alt="gMail" width="30" height="30" /></a>&nbsp;<a href="https://www.facebook.com/?sk=h_chr" target="_blank" rel="noopener noreferrer"><img src="https://www.paco.org/blog/wp-content/uploads/2019/07/icon_facebook.png" alt="Facebook" width="30" height="30" /></a>&nbsp;<a href="https://en.wikipedia.org/wiki/Portal:Technology" target="_blank" rel="noopener noreferrer"><img class="alignnone" src="https://www.paco.org/blog/wp-content/uploads/2019/07/icon_wikipedia.png" alt="Wikipedia" width="30" height="30" /></a>&nbsp;<a href="http://www.reddit.com/r/all" target="_blank" rel="noopener noreferrer"><img src="https://www.paco.org/blog/wp-content/uploads/2019/07/icon_reddit.png" alt="Reddit" width="30" height="30" /></a>&nbsp;<a href="http://www.twitter.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.paco.org/blog/wp-content/uploads/2019/07/icon_twitter.png" alt="Twitter" width="30" height="30" /></a></h2>
+  
+</div>
+
 [office](https://www.office.com/?auth=2){:target="_blank"} • [calendar](https://www.google.com/calendar/render?tab=mc){:target="_blank"} • [reddit](https://www.reddit.com/r/WebdevTutorials/){:target="_blank"} • [github](https://github.com/idtprof?tab=repositories){:target="_blank"} • [sticky notes](https://www.onenote.com/stickynotes){:target="_blank"} • [slack](https://idtprof.slack.com/){:target="_blank"} • [drive](https://drive.google.com/drive/folders/10vNVHvWsBjqardrxym2iR8cGIy6QYTqs){:target="_blank"} • [diigo](https://www.diigo.com/user/eccidtprof){:target="_blank"}\
 [photopea](https://www.photopea.com/){:target="_blank"} • [editpad](https://www.editpad.org/){:target="_blank"}
 
