@@ -199,10 +199,6 @@
 ### skul
 
 * [Adobe Education Exchange](http://edex.adobe.com/){:target="_blank"}
-* [Codecademy](http://www.codecademy.com/){:target="_blank"} [C](https://www.codeschool.com/){:target="_blank"}
-* [ode School](https://www.codeschool.com/){:target="_blank"}
-* [Coursera](https://www.coursera.org/){:target="_blank"}
-* [edX](https://www.edx.org/){:target="_blank"}
 * [Khan Academy](https://www.khanacademy.org/){:target="_blank"}
 * [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/){:target="_blank"}
 * [Programmr](http://www.programmr.com/){:target="_blank"}
