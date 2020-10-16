@@ -1,4 +1,4 @@
-[office](https://www.office.com/?auth=2){:target="_blank"} • [calendar](https://www.google.com/calendar/render?tab=mc){:target="_blank"} • [reddit](http://www.reddit.com/r/all){:target="_blank"} • [github](https://github.com/idtprof?tab=repositories){:target="_blank"} • [slack](https://idtprof.slack.com/){:target="_blank"}
+[office](https://www.office.com/?auth=2){:target="_blank"} • [calendar](https://www.google.com/calendar/render?tab=mc){:target="_blank"} • [reddit](https://www.reddit.com/%20web%20development){:target="_blank"} • [github](https://github.com/idtprof?tab=repositories){:target="_blank"} • [slack](https://idtprof.slack.com/){:target="_blank"}
 
 ### start.paco.org
 
