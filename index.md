@@ -23,6 +23,7 @@
 - [gist](https://gist.github.com/){:target="_blank"}
 
 - [html5 editor](https://html5-editor.net/){:target="_blank"}
+- [dirty markup](https://www.10bestdesign.com/dirtymarkup/){:target="_blank"}
 - [youtube studio](https://studio.youtube.com/){:target="_blank"} 
 
 ### fall 2020
@@ -249,7 +250,6 @@
 ### web tools/reference
 
 * [Adachis](http://adachis.kinja.com/){:target="_blank"}
-* [Dirty Markup](http://www.dirtymarkup.com/){:target="_blank"}
 * [Free Formatter](http://www.freeformatter.com/html-formatter.html#ad-output){:target="_blank"}
 * [Maildrop](http://maildrop.cc/){:target="_blank"}
 * [Speedball](http://www.flickr.com/photos/taffeta/sets/72157628903870575/){:target="_blank"}
