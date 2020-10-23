@@ -23,7 +23,7 @@
 - [gist](https://gist.github.com/){:target="_blank"}
 
 - [html5 editor](https://html5-editor.net/){:target="_blank"}
-- [jsfiddle](https://https://jsfiddle.net/){:target="_blank"}
+- [jsfiddle](https://jsfiddle.net/){:target="_blank"}
 - [dirty markup](https://www.10bestdesign.com/dirtymarkup/){:target="_blank"}
 - [youtube studio](https://studio.youtube.com/){:target="_blank"} 
 
