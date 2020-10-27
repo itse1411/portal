@@ -31,8 +31,8 @@
 
 - [artv-2470-51806](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_567854_1&url=){:target="_blank"} [ handheld device web app dev ]
 - [artv-2470-51807](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_567855_1&url=){:target="_blank"} [ handheld device web app dev ]
-- [itse-1411-51200](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_564785_1&url=){:target="_blank"} [ beg web programming ]
 - [itse-2402-51804](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_568071_1&url=){:target="_blank"} [ int. web programming ]
+- [itse-1411-51200](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_564785_1&url=){:target="_blank"} [ beg web programming ]
 
 ### under construction (fa20)
 
