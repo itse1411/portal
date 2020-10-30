@@ -220,7 +220,6 @@
 ### social
 
 * [Facebook](https://www.facebook.com/pacodotorg){:target="_blank"}
-* [Google+](https://plus.google.com/u/0/){:target="_blank"}
 * [Instafall](http://instafall.com/){:target="_blank"}
 * [LinkedIn](http://www.linkedin.com/profile/view?id=9752024&trk=nav_responsive_tab_profile){:target="_blank"}
 * [Metareddit](http://metareddit.com/reddits/){:target="_blank"}
