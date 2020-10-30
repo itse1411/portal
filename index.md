@@ -157,7 +157,7 @@
 
 ### entertainment
 
-* [deadline hollywood](http://www.deadline.com/hollywood/){:target="_blank"} • [google music](https://play.google.com/music/listen){:target="_blank"} • [movie visor](http://movievisor.com/){:target="_blank"} • [the playlist](https://theplaylist.net/){:target="_blank"} • [soma](http://somafm.com/){:target="_blank"} • [spotify](https://play.spotify.com/browse){:target="_blank"} • [tunein](http://tunein.com/){:target="_blank"}
+* [deadline hollywood](http://www.deadline.com/hollywood/){:target="_blank"} • [google music](https://play.google.com/music/listen){:target="_blank"} • [the playlist](https://theplaylist.net/){:target="_blank"} • [soma](http://somafm.com/){:target="_blank"} • [spotify](https://play.spotify.com/browse){:target="_blank"} • [tunein](http://tunein.com/){:target="_blank"}
 
 ### fun
 
