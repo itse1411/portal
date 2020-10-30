@@ -22,9 +22,12 @@
 - [trello](https://trello.com/b/bVLAG6pR/spring-2018){:target="_blank"}
 - [gist](https://gist.github.com/){:target="_blank"}
 
+### tools
+
 - [html5 editor](https://html5-editor.net/){:target="_blank"}
 - [jsfiddle](https://jsfiddle.net/){:target="_blank"}
 - [dirty markup](https://www.10bestdesign.com/dirtymarkup/){:target="_blank"}
+- [base64](https://www.textencode.com/encoder/generateBase64){:targe"_blank"}
 - [youtube studio](https://studio.youtube.com/){:target="_blank"} 
 
 ### fall 2020
