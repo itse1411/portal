@@ -217,16 +217,6 @@
 * [Udemy](https://www.udemy.com/learn-html5-programming-from-scratch){:target="_blank"}
 * [Yale](http://oyc.yale.edu/courses){:target="_blank"}
 
-### social
-
-* [Facebook](https://www.facebook.com/pacodotorg){:target="_blank"}
-* [Instafall](http://instafall.com/){:target="_blank"}
-* [LinkedIn](http://www.linkedin.com/profile/view?id=9752024&trk=nav_responsive_tab_profile){:target="_blank"}
-* [Metareddit](http://metareddit.com/reddits/){:target="_blank"}
-* [Reddit](http://www.reddit.com/){:target="_blank"}
-* [Tumblr](http://www.tumblr.com/dashboard){:target="_blank"}
-* [Twitter](https://twitter.com/pacodotorg){:target="_blank"}
-
 ### software
 
 * [Ninite](https://ninite.com/){:target="_blank"}
