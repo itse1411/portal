@@ -25,7 +25,7 @@
 ### tools
 
 - [html5 editor](https://html5-editor.net/){:target="_blank"}
-- [editor.md](https://pandao.github.io/editor.md/en.html_{:target="_blank"}
+- [editor.md](https://pandao.github.io/editor.md/en.html){:target="_blank"}
 - [jsfiddle](https://jsfiddle.net/){:target="_blank"}
 - [dirty markup](https://www.10bestdesign.com/dirtymarkup/){:target="_blank"}
 - [base64](https://www.textencode.com/encoder/generateBase64){:targe"_blank"}
