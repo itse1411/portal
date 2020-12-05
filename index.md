@@ -1,6 +1,16 @@
 <div align="center">
   
-  <h2><a href="http://www.gmail.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_gmail.png?raw=true" alt="gMail" width="30" height="30" /></a>&nbsp;<a href="https://www.facebook.com/?sk=h_chr" target="_blank" rel="noopener noreferrer"><img src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_facebook.png?raw=true" alt="Facebook" width="30" height="30" /></a>&nbsp;<a href="https://en.wikipedia.org/wiki/Portal:Technology" target="_blank" rel="noopener noreferrer"><img class="alignnone" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_wikipedia.png?raw=true" alt="Wikipedia" width="30" height="30" /></a>&nbsp;<a href="http://www.reddit.com/r/all" target="_blank" rel="noopener noreferrer"><img src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_reddit.png?raw=true" alt="Reddit" width="30" height="30" /></a>&nbsp;<a href="http://www.twitter.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_twitter.png?raw=true" alt="Twitter" width="30" height="30" /></a></h2>
+<h2>
+
+<a href="https://www.gmail.com/" rel="noopener noreferrer" target="_blank">
+    <img alt="gMail" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_gmail.png?raw=true" width="30"></a>&nbsp;
+	<a href="https://www.facebook.com/?sk=h_chr" rel="noopener noreferrer" target="_blank"><img alt="Facebook" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_facebook.png?raw=true" width="30"></a>&nbsp;
+	<a href="https://en.wikipedia.org/wiki/Portal:Technology" rel="noopener noreferrer" target="_blank"><img alt="Wikipedia" class="alignnone" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_wikipedia.png?raw=true" width="30"></a>&nbsp;
+	<a href="https://www.reddit.com/r/all" rel="noopener noreferrer" target="_blank"><img alt="Reddit" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_reddit.png?raw=true" width="30"></a>&nbsp;
+	<a href="https://www.twitter.com/" rel="noopener noreferrer" target="_blank"><img alt="Twitter" height="30" src="https://github.com/pacodotorg/portal/blob/gh-pages/assets/img/menu/icon_twitter.png?raw=true" width="30"></a>&nbsp;
+  <a href="https://voice.google.com/" rel="noopener noreferrer" target="_blank"><img alt="Google VOice" height="30" src="https://voice.google.com/" width="30"></a>&nbsp;
+
+</h2>
   
 </div>
 
