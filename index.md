@@ -16,7 +16,7 @@
 
 [office](https://www.office.com/?auth=2){:target="_blank"} • [calendar](https://www.google.com/calendar/render?tab=mc){:target="_blank"} • [reddit](https://www.reddit.com/r/WebdevTutorials/){:target="_blank"} • [github](https://github.com/idtprof?tab=repositories){:target="_blank"} • [sticky notes](https://www.onenote.com/stickynotes){:target="_blank"} • [slack](https://idtprof.slack.com/){:target="_blank"} • [drive](https://drive.google.com/drive/folders/10vNVHvWsBjqardrxym2iR8cGIy6QYTqs){:target="_blank"} • [diigo](https://www.diigo.com/user/eccidtprof){:target="_blank"}\
 [photopea](https://www.photopea.com/){:target="_blank"} • [editpad](https://www.editpad.org/){:target="_blank"}\
-[houston](http://houstonlibrary.org/){:target="_blank") • [el centro](https://libguides.elcentrocollege.edu/researchguides){:target="_blank"}\
+[houston](http://houstonlibrary.org/){:target="_blank"} • [el centro](https://libguides.elcentrocollege.edu/researchguides){:target="_blank"}\
 
 ### start.paco.org
 
