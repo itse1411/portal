@@ -42,6 +42,11 @@
 - [base64](https://www.textencode.com/encoder/generateBase64){:targe"_blank"}
 - [youtube studio](https://studio.youtube.com/){:target="_blank"} 
 
+### spring 2021
+
+ - [artv-2471-52e00](https://dcccd.blackboard.com/webapps/blackboard/content/listContentEditable.jsp?content_id=_22428151_1&course_id=_576726_1){:target="_blank"} [ android app programming ]
+
+
 ### fall 2020
 
 - [artv-2470-51806](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_567854_1&url=){:target="_blank"} [ handheld device web app dev ]
@@ -97,7 +102,7 @@
 * [itse-1401-51400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_350943_1&handle=announcements_entry&mode=view){:target="_blank"} [ web design tools ]
 * [itse-2409-51400](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_318617_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ database programming ]
 
-## maymester 2019
+### maymester 2019
 
 * [itnw-1274](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_329625_1&handle=cp_announcements&mode=cpview){:target="_blank"} (54400) [managing web site dev projects – winter]
 
