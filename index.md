@@ -48,7 +48,7 @@
 - [artv-2471-52e00](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_576726_1&url=){:target="_blank"} [ android app programming ]
 - [artv-2471-52e02](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_576728_1&url=){:target="_blank"} [ android app programming ]
 - [itnw-1408-52e00](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_571753_1&url=){:target="_blank"} [ imp/support client op sys ]
-- [itse-1411-51200](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_577245_1&url=){:target="_blank"} [ beg web programming ]
+- [itse-1411-52200](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_577245_1&url=){:target="_blank"} [ beg web programming ]
 - [artv-2410-52401](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_626441_1&url=){:target="_blank"} [ ios programming ]
 
 ### fall 2020
