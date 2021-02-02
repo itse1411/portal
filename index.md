@@ -44,11 +44,12 @@
 
 ### spring 2021
 
- - [artv-2471-52e00](https://dcccd.blackboard.com/webapps/blackboard/content/listContentEditable.jsp?content_id=_22428151_1&course_id=_576726_1){:target="_blank"} [ android app programming ]
- - [artv-2471-52e02](https://dcccd.blackboard.com/webapps/blackboard/content/listContentEditable.jsp?content_id=_22428165_1&course_id=_576728_1){:target="_blank"} [ android app programming ]
- - [itnw-1408-52e00](https://dcccd.blackboard.com/webapps/blackboard/content/listContentEditable.jsp?content_id=_22387741_1&course_id=_571753_1){:target="_blank"} [ imp/support client op sys ]
- - [itse-1411-52200](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_577245_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ beginning web programming ]
- - [artv-2410-52401](https://dcccd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_626441_1&handle=cp_announcements&mode=cpview){:target="_blank"} [ ios programming ]
+- [artv-2470-52400](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_576724_1&url=){:target="_blank"} [ handheld device web app dev ]
+- [artv-2471-52e00](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_576726_1&url=){:target="_blank"} [ android app programming ]
+- [artv-2471-52e02](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_576728_1&url=){:target="_blank"} [ android app programming ]
+- [itnw-1408-52e00](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_571753_1&url=){:target="_blank"} [ imp/support client op sys ]
+- [itse-1411-51200](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_577245_1&url=){:target="_blank"} [ beg web programming ]
+- [artv-2410-52401](https://dcccd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_626441_1&url=){:target="_blank"} [ ios programming ]
 
 ### fall 2020
 
